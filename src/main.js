@@ -39,6 +39,8 @@ function createButton(label) {
     return btn;
 }
 
+//Nova branch adicionada
+
 function createDiv() {
     const div = document.createElement('div');
     div.classList.add('button-calc');
